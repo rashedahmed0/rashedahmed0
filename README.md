@@ -1,36 +1,56 @@
+<!-- Your Name and Introduction -->
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Rashed Ahommod</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+# Hi there 👋, I'm Rashed Ahommod
+
+A passionate frontend developer from Bangladesh.
+<img width="300" align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 
 
-
- <img width="300" align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rashed ahommod" target="blank"><img src="https://img.shields.io/twitter/follow/rashed ahommod?logo=twitter&style=for-the-badge" alt="rashed ahommod" /></a> </p>
-
-- 🔭 I’m currently working on [java-script](https://github.com/rashedahmed0/JavaScript)
-
-- 🌱 I’m currently learning **JavaScript(js) , react .**
-
-- 💬 Ask me about **html, css , bootstrap, tailwind.**
-
-- 📫 How to reach me **email: rashedahommod0@gmail . facebook : .com**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
+<!-- Social Media Badges -->
 <p align="left">
-<a href="https://twitter.com/rashed ahommod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashed ahommod" height="30" width="40" /></a>
-<a href="https://fb.com/rial ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rial ahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/rashedahmed670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashedahmed670" height="30" width="40" /></a>
+  <a href="https://twitter.com/rashedahommod" target="blank"><img src="https://img.shields.io/twitter/follow/rashedahommod?logo=twitter&style=for-the-badge" alt="rashedahommod" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<!-- About Me -->
+- 🔭 I’m currently working on [JavaScript](https://github.com/rashedahmed0/JavaScript)
+- 🌱 I’m currently learning **JavaScript (JS), React**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind**
+- 📫 How to reach me: **Email: rashedahommod0@gmail.com | Facebook: [Rashed Ahommod](https://facebook.com/yourfacebookusername)**
+- ⚡ Fun fact: **I am funny**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedahmed0&show_icons=true&locale=en&layout=compact" alt="rashedahmed0" /></p>
+<!-- Connect with Me -->
+## Connect with me:
+<p align="left">
+  <a href="https://twitter.com/rashedahommod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashedahommod" height="30" width="40" /></a>
+  <a href="https://facebook.com/rialahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rialahmed" height="30" width="40" /></a>
+  <a href="https://instagram.com/rashedahmed670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashedahmed670" height="30" width="40" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashedahmed0&show_icons=true&locale=en" alt="rashedahmed0" /></p>
+<!-- Languages and Tools -->
+## Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+</p>
 
-<p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashedahmed0&" alt="rashedahmed0" /></p>
+<!-- GitHub Stats -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedahmed0&show_icons=true&locale=en&layout=compact" alt="rashedahmed0" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashedahmed0&show_icons=true&locale=en" alt="rashedahmed0" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashedahmed0&" alt="rashedahmed0" />
+</p>
 
